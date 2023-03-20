@@ -1,1 +1,1 @@
-# coding-project-template
+# IBM Language Translator WebApp
